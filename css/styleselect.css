@@ -1,0 +1,49 @@
+h1{
+	color: green;
+	margin: 10px;
+	background-color: gray;
+	border: 2px solid darkred;
+}
+.abc{
+	color: darkred;
+	border-style: !important;
+
+}
+#bbb{
+	color: deeppink;
+}
+*{
+	font-family: cursive;
+
+}
+input[type="text"]{
+	color: red;
+}
+input[type="number"]{
+	color: greenyellow;
+}
+input[type="password"]{
+	color: gray;
+}
+a[href]{
+	color: royalblue;
+}
+img[src]{
+	height: 300px;
+	
+	border: 6px dottd orange outside green;
+
+}
+div:hover{
+	color: green;
+	background-color: green;
+	height: 60px;
+	width: 10px;
+	border: 5px double darkgray;
+}
+a:hover{
+	color: green;
+}
+a:hover{
+	height: 200px;
+}

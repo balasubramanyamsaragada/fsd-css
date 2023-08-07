@@ -1,0 +1,53 @@
+
+.epam{
+	background-color: whitesmoke;
+	padding: 20px;
+}
+a{
+	margin: 10px;
+	color:hotpink;
+}
+p{
+	padding: 10px;
+}
+
+.b{
+	background-color: yellow;
+}
+table{
+	width: 100%;
+}
+.cont{
+	height: 200px;
+	width: 95%;
+	background-color: whitesmoke;
+	text-align: center;
+	padding: 0;
+}
+
+.container{
+	height: 200px;
+	width: 95%;
+	background-color: whitesmoke;
+	text-align: center;
+	padding: 0;
+}
+.digital{
+	font-style: italic;
+	padding: 20px;
+	margin:10px;
+}
+
+form{
+	float: right;
+}
+.text{
+	height: 50px;
+	width: 100%;
+	background-color: whitesmoke;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	text-align-top:20px;
+	padding: 0;
+}

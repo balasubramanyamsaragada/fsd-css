@@ -1,0 +1,16 @@
+.external{
+	color:blue;
+	border-color:greenyellow;
+}
+#abc{
+	background-color: seagreen;
+	font-family: blue;
+}
+
+#a555{
+	background-color: deeppink;
+	font-style: !important;
+}
+.home{
+	margin:25px;
+}
